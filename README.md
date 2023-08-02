@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🐿️, I'm Rishabh Awatani</h1>
+<h1 align="center">Namaste 🐿️, I'm Risi</h1>
 <h3 align="center">I am a full-stack engineer ⚒️ with a passion for developing data-intensive applications.</h3>
 
 - 🔭 I’m currently working on [OBO-Agents](https://github.com/rishi003/obo-agents)
