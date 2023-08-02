@@ -17,6 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entropy is beautiful](https://medium.com/@rishabh.awatani/entropy-is-beautiful-8be187d38b85?source=rss-a427d7a8ac06------2)
+- [The intuition behind hypothesis testing](https://medium.com/@rishabh.awatani/the-intuition-behind-hypothesis-testing-23ab6624d429?source=rss-a427d7a8ac06------2)
+- [Assess data completeness using Python and Tableau](https://medium.com/@rishabh.awatani/assess-data-completeness-using-python-and-tableau-34bcee6ae82e?source=rss-a427d7a8ac06------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
